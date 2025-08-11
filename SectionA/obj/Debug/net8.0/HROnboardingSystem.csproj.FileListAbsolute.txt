@@ -1,0 +1,14 @@
+d:\ASN2_Student_Resource\ASN2_Student_Resource\ASN2_Student_Resource\SectionA\bin\Debug\net8.0\HROnboardingSystem.exe
+d:\ASN2_Student_Resource\ASN2_Student_Resource\ASN2_Student_Resource\SectionA\bin\Debug\net8.0\HROnboardingSystem.deps.json
+d:\ASN2_Student_Resource\ASN2_Student_Resource\ASN2_Student_Resource\SectionA\bin\Debug\net8.0\HROnboardingSystem.runtimeconfig.json
+d:\ASN2_Student_Resource\ASN2_Student_Resource\ASN2_Student_Resource\SectionA\bin\Debug\net8.0\HROnboardingSystem.dll
+d:\ASN2_Student_Resource\ASN2_Student_Resource\ASN2_Student_Resource\SectionA\bin\Debug\net8.0\HROnboardingSystem.pdb
+d:\ASN2_Student_Resource\ASN2_Student_Resource\ASN2_Student_Resource\SectionA\obj\Debug\net8.0\HROnboardingSystem.GeneratedMSBuildEditorConfig.editorconfig
+d:\ASN2_Student_Resource\ASN2_Student_Resource\ASN2_Student_Resource\SectionA\obj\Debug\net8.0\HROnboardingSystem.AssemblyInfoInputs.cache
+d:\ASN2_Student_Resource\ASN2_Student_Resource\ASN2_Student_Resource\SectionA\obj\Debug\net8.0\HROnboardingSystem.AssemblyInfo.cs
+d:\ASN2_Student_Resource\ASN2_Student_Resource\ASN2_Student_Resource\SectionA\obj\Debug\net8.0\HROnboardingSystem.csproj.CoreCompileInputs.cache
+d:\ASN2_Student_Resource\ASN2_Student_Resource\ASN2_Student_Resource\SectionA\obj\Debug\net8.0\HROnboardingSystem.dll
+d:\ASN2_Student_Resource\ASN2_Student_Resource\ASN2_Student_Resource\SectionA\obj\Debug\net8.0\refint\HROnboardingSystem.dll
+d:\ASN2_Student_Resource\ASN2_Student_Resource\ASN2_Student_Resource\SectionA\obj\Debug\net8.0\HROnboardingSystem.pdb
+d:\ASN2_Student_Resource\ASN2_Student_Resource\ASN2_Student_Resource\SectionA\obj\Debug\net8.0\HROnboardingSystem.genruntimeconfig.cache
+d:\ASN2_Student_Resource\ASN2_Student_Resource\ASN2_Student_Resource\SectionA\obj\Debug\net8.0\ref\HROnboardingSystem.dll

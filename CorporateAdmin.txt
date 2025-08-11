@@ -1,0 +1,26 @@
+Jan Lee, Software Architect, IT Department
+Feb Tan, Corporate Recruiter, HR Corporate Admin
+Mark Lim, Benefit Specialist, HR Corporate Admin
+Apr Tan, Payroll Administrator, HR Corporate Admin
+May Ng, Training Coordinator, HR Corporate Admin
+Juno Chua, Compensation Manager, HR Corporate Admin
+Jul Wang, Technical Recruiter, HR Corporate Admin
+Aug Lau, HR Consultant, HR Corporate Admin
+Sep Yeo, Software Engineer, IT Department
+Octo Chua, Technical Lead, IT Department
+Nova Ng, Team Lead, IT Department
+Dessy Chow, Project Lead, IT Department
+Jack Mar, Project Manager, IT Department
+Anne Chan, Procurement Assistant, Procurement Department
+Claire Tan, Procurement Officer, Procurement Department
+Jade Lau, Purchasing Associate, Procurement Department
+Wyne Yeo, Purchasing Clerk, Procurement Department
+Craig Ng, Facilities Manager, Procurement Department
+Hugh Chan, Operations Manager, Procurement Department
+Kent Teo, Store Manager, Procurement Department
+Sam Goh, Production Planner, Procurement Department
+Zack Aw, Warehouse Clerk, Procurement Department
+Ava Lim, Procurement Specialist, Procurement Department
+Eva Chow, Materials Director, Procurement Department
+Lea Law, Corporate Recruiter, HR Corporate Admin
+Ian Neo, HR Coordinator, HR Corporate Admin

@@ -1,0 +1,26 @@
+S1234567A|Jan Lee|Ms|05/10/1990|Software Architect|IT Department|98785432|PartTime|3500
+S1234567B|Feb Tan|Mr|10/12/1991|Corporate Recruiter|HR Corporate Admin|98766432|PartTime|1500
+S1234567C|Mark Lim|Mr|15/07/1992|Benefit Specialist|HR Corporate Admin|98265432|PartTime|2900
+S1234567D|Apr Tan|Ms|20/01/1996|Payroll Administrator|HR Corporate Admin|91765432|FullTime|1600
+S1234567E|May Ng|Ms|25/05/1994|Training Coordinator|HR Corporate Admin|98767432|Hourly|1200
+S1234567F|Juno Chua|Mr|30/09/1997|Compensation Manager|HR Corporate Admin|98760432|FullTime|4000
+S1234567G|Jul Wang|Mr|02/03/1996|Technical Recruiter|HR Corporate Admin|98765932|PartTime|1200
+S1234567H|Aug Lau|Mr|04/11/1997|HR Consultant|HR Corporate Admin|98765032|PartTime|2000
+S1234567I|Sep Yeo|Mr|06/08/1998|Software Engineer|IT Department|98765434|FullTime|3000
+S1234567J|Octo Chua|Mr|08/04/1999|Technical Lead|IT Department|92765432|FullTime|4000
+S1234567K|Nova Ng|Ms|10/03/1980|Team Lead|IT Department|90760432|FullTime|3000
+S1234567L|Dessy Chow|Ms|05/01/1998|Project Lead|IT Department|95760432|FullTime|3500
+S1234567M|Jack Mar|Mr|14/06/1999|Project Manager|IT Department|98766632|FullTime|4500
+S1234567N|Anne Chan|Ms|16/04/1983|Procurement Assistant|Procurement Department|90065432|Hourly|1000
+S1234567O|Claire Tan|Ms|17/08/1984|Procurement Officer|Procurement Department|98760032|FullTime|1000
+S1234567P|Jade Lau|Ms|18/10/1996|Purchasing Associate|Procurement Department|91711432|FullTime|1100
+S1234567Q|Wyne Yeo|Ms|19/08/1986|Purchasing Clerk|Procurement Department|98733433|Hourly|1200
+S1234567R|Craig Ng|Mr|23/11/1987|Facilities Manager|Procurement Department|90088432|PartTime|2000
+S1234567S|Hugh Chan|Mr|25/05/1988|Operations Manager|Procurement Department|88765432|FullTime|2500
+S1234567T|Kent Teo|Mr|27/11/1989|Store Manager|Procurement Department|80765432|FullTime|2000
+S1234567U|Sam Goh|Mr|29/03/1990|Production Planner|Procurement Department|98765321|Hourly|1500
+S1234567V|Zack Aw|Mr|13/12/1991|Warehouse Clerk|Procurement Department|98321432|Hourly|1000
+S1234567W|Ava Lim|Ms|07/11/1992|Procurement Specialist|Procurement Department|91235432|PartTime|2800
+S1234567X|Eva Chow|Ms|09/12/1997|Materials Director|Procurement Department|92225432|FullTime|6500
+S1234567Y|Lea Law|Ms|11/07/1994|Corporate Recruiter|HR Corporate Admin|94445432|PartTime|1600
+S1234567Z|Ian Neo|Ms|21/09/1995|HR Coordinator|HR Corporate Admin|90005432|Hourly|1200

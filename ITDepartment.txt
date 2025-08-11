@@ -1,0 +1,26 @@
+S1234567A, Jan Lee, 05/10/1990, IT Department, 98785432
+S1234567B, Feb Tan, 10/12/1991, HR Corporate Admin, 98766432
+S1234567C, Mark Lim, 15/07/1992, HR Corporate Admin, 98265432
+S1234567D, Apr Tan, 20/01/1996, HR Corporate Admin, 91765432
+S1234567E, May Ng, 25/05/1994, HR Corporate Admin, 98767432
+S1234567F, Juno Chua, 30/09/1997, HR Corporate Admin, 98760432
+S1234567G, Jul Wang, 02/03/1996, HR Corporate Admin, 98765932
+S1234567H, Aug Lau, 04/11/1997, HR Corporate Admin, 98765032
+S1234567I, Sep Yeo, 06/08/1998, IT Department, 98765434
+S1234567J, Octo Chua, 08/04/1999, IT Department, 92765432
+S1234567K, Nova Ng, 10/03/1980, IT Department, 90760432
+S1234567L, Dessy Chow, 05/01/1998, IT Department, 95760432
+S1234567M, Jack Mar, 14/06/1999, IT Department, 98766632
+S1234567N, Anne Chan, 16/04/1983, Procurement Department, 90065432
+S1234567O, Claire Tan, 17/08/1984, Procurement Department, 98760032
+S1234567P, Jade Lau, 18/10/1996, Procurement Department, 91711432
+S1234567Q, Wyne Yeo, 19/08/1986, Procurement Department, 98733433
+S1234567R, Craig Ng, 23/11/1987, Procurement Department, 90088432
+S1234567S, Hugh Chan, 25/05/1988, Procurement Department, 88765432
+S1234567T, Kent Teo, 27/11/1989, Procurement Department, 80765432
+S1234567U, Sam Goh, 29/03/1990, Procurement Department, 98765321
+S1234567V, Zack Aw, 13/12/1991, Procurement Department, 98321432
+S1234567W, Ava Lim, 07/11/1992, Procurement Department, 91235432
+S1234567X, Eva Chow, 09/12/1997, Procurement Department, 92225432
+S1234567Y, Lea Law, 11/07/1994, HR Corporate Admin, 94445432
+S1234567Z, Ian Neo, 21/09/1995, HR Corporate Admin, 90005432

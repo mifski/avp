@@ -1,0 +1,26 @@
+Ms, Jan Lee, 98785432, Software Architect, IT Department
+Mr, Feb Tan, 98766432, Corporate Recruiter, HR Corporate Admin
+Mr, Mark Lim, 98265432, Benefit Specialist, HR Corporate Admin
+Ms, Apr Tan, 91765432, Payroll Administrator, HR Corporate Admin
+Ms, May Ng, 98767432, Training Coordinator, HR Corporate Admin
+Mr, Juno Chua, 98760432, Compensation Manager, HR Corporate Admin
+Mr, Jul Wang, 98765932, Technical Recruiter, HR Corporate Admin
+Mr, Aug Lau, 98765032, HR Consultant, HR Corporate Admin
+Mr, Sep Yeo, 98765434, Software Engineer, IT Department
+Mr, Octo Chua, 92765432, Technical Lead, IT Department
+Ms, Nova Ng, 90760432, Team Lead, IT Department
+Ms, Dessy Chow, 95760432, Project Lead, IT Department
+Mr, Jack Mar, 98766632, Project Manager, IT Department
+Ms, Anne Chan, 90065432, Procurement Assistant, Procurement Department
+Ms, Claire Tan, 98760032, Procurement Officer, Procurement Department
+Ms, Jade Lau, 91711432, Purchasing Associate, Procurement Department
+Ms, Wyne Yeo, 98733433, Purchasing Clerk, Procurement Department
+Mr, Craig Ng, 90088432, Facilities Manager, Procurement Department
+Mr, Hugh Chan, 88765432, Operations Manager, Procurement Department
+Mr, Kent Teo, 80765432, Store Manager, Procurement Department
+Mr, Sam Goh, 98765321, Production Planner, Procurement Department
+Mr, Zack Aw, 98321432, Warehouse Clerk, Procurement Department
+Ms, Ava Lim, 91235432, Procurement Specialist, Procurement Department
+Ms, Eva Chow, 92225432, Materials Director, Procurement Department
+Ms, Lea Law, 94445432, Corporate Recruiter, HR Corporate Admin
+Ms, Ian Neo, 90005432, HR Coordinator, HR Corporate Admin

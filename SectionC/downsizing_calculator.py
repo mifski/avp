@@ -1,0 +1,2 @@
+try:d=[(p[1].strip(),p[0].strip(),float(p[8].strip()))for line in open('../HRMasterlist.txt')if len(p:=line.strip().split('|'))==9 and p[7].strip().lower()=='fulltime'and 1991<__import__('datetime').datetime.strptime(p[3].strip(),'%d/%m/%Y').year<1998];d and print(f"Employees being downsized: {', '.join(f'{n} ({i})'for n,i,_ in d)}\nTotal cost reduction: ${sum(s for _,_,s in d):,.2f}")
+except:print("Error processing file")
